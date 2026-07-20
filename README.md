@@ -1,4 +1,4 @@
-# 🩸 RaktCare AI – Intelligent Blood Donation Management System
+#  RaktCare AI – Intelligent Blood Donation Management System
 
 ## Overview
 
